@@ -24,23 +24,22 @@
 #pizza,
 #pasta,
 #salad {
-    list-style-type: none;
     cursor: pointer;
 }
 #pizza {
-    color: red;
+    background-color: red;
     font-weight: bold;
     text-decoration: none;
     padding-bottom: 10px;
 }
 #pasta {
-    color: blue;
+    background-color: blue;
     font-weight: bold;
     text-decoration: none;
     padding-bottom: 10px;
 }
 #salad {
-    color: green;
+    background-color: green;
     font-weight: bold;
     text-decoration: none;
     padding-bottom: 10px;
